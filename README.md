@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Safal Nouhad
 
-<!--
-**SafalNoushad/SafalNoushad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Flutter Developer building full-stack mobile apps
+🧠 Backend: NestJS | Flask
+🔥 Firebase | Firestore | MongoDB
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* Flutter (Dart)
+* NestJS, Flask
+* Firebase, Firestore, MongoDB
+* HTML, CSS, JavaScript
+* Fastlane, Shorebird
+
+---
+
+## 📱 What I Build
+
+* Scalable mobile apps
+* Real-time applications
+* Clean UI + strong backend systems
+
+---
+
+## 📫 Contact
+
+* LinkedIn: [add later]
