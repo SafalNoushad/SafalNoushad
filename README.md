@@ -26,4 +26,4 @@
 
 ## 📫 Contact
 
-* LinkedIn: [add later]
+* LinkedIn: safalnoushad
